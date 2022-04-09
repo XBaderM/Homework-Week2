@@ -1,6 +1,6 @@
 # Horieson Semantic Refactor
 
-Accessibility websites helps people with disabilities to navigate the webpages using assistive technologies. one the basic elements is that we design the website according to semantic html standard which also helps on google searche engines. our job was to refactor this website into semantic html by changing the divs to their relevent semantic tags. below is link to the refactored website.
+Accessibility websites helps people with disabilities to navigate the webpages using assistive technologies. one the basic elements is that we design the website according to semantic html standard which also helps on google searche engines. our job was to refactor this website into semantic html by changing the sourcecode to their relevent semantic tags. below is link to the refactored website.
 
 ### Website Url
 
